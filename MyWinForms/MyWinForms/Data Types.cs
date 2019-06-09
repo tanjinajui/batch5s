@@ -16,5 +16,14 @@ namespace MyWinForms
         {
             InitializeComponent();
         }
+
+        private void showButton_Click(object sender, EventArgs e)
+        {
+            int firstNumber;
+            firstNumber = 10;
+            int secondNumber = firstNumber;
+            double thirdNumber = secondNumber;
+            MessageBox.Show(" firstNumber: " +  firstNumber  +   " secondNumber: " +  secondNumber +  " thirdNumber: " +  thirdNumber);
+        }
     }
 }
