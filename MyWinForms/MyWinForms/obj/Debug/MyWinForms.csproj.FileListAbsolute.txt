@@ -12,3 +12,4 @@ D:\Git Practice\244225\batch5s\MyWinForms\MyWinForms\obj\Debug\MyWinForms.Data_T
 D:\Git Practice\244225\batch5s\MyWinForms\MyWinForms\obj\Debug\MyWinForms.PersonalInformationForm.resources
 D:\Git Practice\244225\batch5s\MyWinForms\MyWinForms\obj\Debug\MyWinForms.SubAddMultDivForm.resources
 D:\Git Practice\244225\batch5s\MyWinForms\MyWinForms\obj\Debug\MyWinForms.ConditionalStatementForm.resources
+D:\Git Practice\244225\batch5s\MyWinForms\MyWinForms\obj\Debug\MyWinForms.CoffeShopForm.resources

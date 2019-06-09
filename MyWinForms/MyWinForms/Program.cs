@@ -20,7 +20,8 @@ namespace MyWinForms
             //Application.Run(new Data_Types());
             //Application.Run(new PersonalInformationForm());
             //Application.Run(new SubAddMultDivForm());
-            Application.Run(new ConditionalStatementForm());
+            //Application.Run(new ConditionalStatementForm());
+            Application.Run(new CoffeShopForm());
         }
     }
 }

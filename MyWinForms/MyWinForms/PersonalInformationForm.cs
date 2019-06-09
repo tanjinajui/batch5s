@@ -42,19 +42,10 @@ namespace MyWinForms
 
         private void SaveButton_Click(object sender, EventArgs e)
         {
-
-            
-            //MessageBox.Show(" " + FirstNameTextBox.Text + "" + lastNameTextBox.Text + "" + fathersnameTextBox.Text + "" + mothersNameTextBox.Text + "" + AddressTextBox.Text);
-            saveRichTextBox.Text = message;
+            saveRichTextBox.Text = (" " + FirstNameTextBox.Text + "" + lastNameTextBox.Text + "" + fathersnameTextBox.Text + "" + mothersNameTextBox.Text + "" + AddressTextBox.Text);
         }
         
-        private string save()
-        {
-            string message ="";
-            message= (" " + FirstNameTextBox.Text + "" + lastNameTextBox.Text + "" + fathersnameTextBox.Text + "" + mothersNameTextBox.Text + "" + AddressTextBox.Text);
-            return message;
-            
-        }
+        
          
     }
 }

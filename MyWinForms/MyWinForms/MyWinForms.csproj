@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CoffeShopForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoffeShopForm.Designer.cs">
+      <DependentUpon>CoffeShopForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="ConditionalStatementForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +84,9 @@
     <Compile Include="SubAddMultDivForm.Designer.cs">
       <DependentUpon>SubAddMultDivForm.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="CoffeShopForm.resx">
+      <DependentUpon>CoffeShopForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ConditionalStatementForm.resx">
       <DependentUpon>ConditionalStatementForm.cs</DependentUpon>
     </EmbeddedResource>
