@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4E35F527-648D-4323-94D2-BD177F4B89FA}</ProjectGuid>
+    <ProjectGuid>{357D2235-DA2A-4E5C-849D-C464B56802EC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>MyWinForms</RootNamespace>
-    <AssemblyName>MyWinForms</AssemblyName>
+    <RootNamespace>AarryFormPractice</RootNamespace>
+    <AssemblyName>AarryFormPractice</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,67 +46,49 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArrayExeciseForm.cs">
+    <Compile Include="ArrayvalueDeclartForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ArrayExeciseForm.Designer.cs">
-      <DependentUpon>ArrayExeciseForm.cs</DependentUpon>
+    <Compile Include="ArrayvalueDeclartForm.Designer.cs">
+      <DependentUpon>ArrayvalueDeclartForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="CoffeShopForm.cs">
+    <Compile Include="CustomerAssignmentForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CoffeShopForm.Designer.cs">
-      <DependentUpon>CoffeShopForm.cs</DependentUpon>
+    <Compile Include="CustomerAssignmentForm.Designer.cs">
+      <DependentUpon>CustomerAssignmentForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="ConditionalStatementForm.cs">
+    <Compile Include="CustomerForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ConditionalStatementForm.Designer.cs">
-      <DependentUpon>ConditionalStatementForm.cs</DependentUpon>
+    <Compile Include="CustomerForm.Designer.cs">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Data Types.cs">
+    <Compile Include="ListForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Data Types.Designer.cs">
-      <DependentUpon>Data Types.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Home Form.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Home Form.Designer.cs">
-      <DependentUpon>Home Form.cs</DependentUpon>
-    </Compile>
-    <Compile Include="PersonalInformationForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="PersonalInformationForm.Designer.cs">
-      <DependentUpon>PersonalInformationForm.cs</DependentUpon>
+    <Compile Include="ListForm.Designer.cs">
+      <DependentUpon>ListForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SubAddMultDivForm.cs">
+    <Compile Include="UserInputForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SubAddMultDivForm.Designer.cs">
-      <DependentUpon>SubAddMultDivForm.cs</DependentUpon>
+    <Compile Include="UserInputForm.Designer.cs">
+      <DependentUpon>UserInputForm.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="ArrayExeciseForm.resx">
-      <DependentUpon>ArrayExeciseForm.cs</DependentUpon>
+    <EmbeddedResource Include="ArrayvalueDeclartForm.resx">
+      <DependentUpon>ArrayvalueDeclartForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="CoffeShopForm.resx">
-      <DependentUpon>CoffeShopForm.cs</DependentUpon>
+    <EmbeddedResource Include="CustomerAssignmentForm.resx">
+      <DependentUpon>CustomerAssignmentForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ConditionalStatementForm.resx">
-      <DependentUpon>ConditionalStatementForm.cs</DependentUpon>
+    <EmbeddedResource Include="CustomerForm.resx">
+      <DependentUpon>CustomerForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Data Types.resx">
-      <DependentUpon>Data Types.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Home Form.resx">
-      <DependentUpon>Home Form.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="PersonalInformationForm.resx">
-      <DependentUpon>PersonalInformationForm.cs</DependentUpon>
+    <EmbeddedResource Include="ListForm.resx">
+      <DependentUpon>ListForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -117,8 +99,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="SubAddMultDivForm.resx">
-      <DependentUpon>SubAddMultDivForm.cs</DependentUpon>
+    <EmbeddedResource Include="UserInputForm.resx">
+      <DependentUpon>UserInputForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

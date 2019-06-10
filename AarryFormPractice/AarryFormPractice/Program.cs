@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MyWinForms
+namespace AarryFormPractice
 {
     static class Program
     {
@@ -16,13 +16,11 @@ namespace MyWinForms
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new Form1());
-            //Application.Run(new Data_Types());
-            //Application.Run(new PersonalInformationForm());
-            //Application.Run(new SubAddMultDivForm());
-            //Application.Run(new ConditionalStatementForm());
-            //Application.Run(new CoffeShopForm());
-            Application.Run(new ArrayExeciseForm());
+            //Application.Run(new ArrayvalueDeclartForm());
+            Application.Run(new UserInputForm());
+            //Application.Run(new ListForm());
+            //Application.Run(new CustomerForm());
+            //Application.Run(new CustomerAssignmentForm());
         }
     }
 }

@@ -1,0 +1,66 @@
+F:\Tanjina\Bitm dot net\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.exe.config
+F:\Tanjina\Bitm dot net\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.exe
+F:\Tanjina\Bitm dot net\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.pdb
+F:\Tanjina\Bitm dot net\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csprojAssemblyReference.cache
+F:\Tanjina\Bitm dot net\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.Properties.Resources.resources
+F:\Tanjina\Bitm dot net\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csproj.GenerateResource.cache
+F:\Tanjina\Bitm dot net\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csproj.CoreCompileInputs.cache
+F:\Tanjina\Bitm dot net\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.exe
+F:\Tanjina\Bitm dot net\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.pdb
+F:\Tanjina\Bitm dot net\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.ArrayvalueDeclartForm.resources
+F:\Tanjina\Bitm dot net\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.UserInputForm.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.exe.config
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.exe
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.pdb
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csprojAssemblyReference.cache
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.ArrayvalueDeclartForm.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.Properties.Resources.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.UserInputForm.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csproj.GenerateResource.cache
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csproj.CoreCompileInputs.cache
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.exe
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.pdb
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.ListForm.resources
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.exe.config
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.exe
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.pdb
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csprojAssemblyReference.cache
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.ArrayvalueDeclartForm.resources
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.CustomerForm.resources
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.ListForm.resources
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.Properties.Resources.resources
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.UserInputForm.resources
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csproj.GenerateResource.cache
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csproj.CoreCompileInputs.cache
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.exe
+D:\Tanjina\AarryFormPractice-20190527T150757Z-001-20190528T081609Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.pdb
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.exe.config
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.exe
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.pdb
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csprojAssemblyReference.cache
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.ArrayvalueDeclartForm.resources
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.CustomerForm.resources
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.ListForm.resources
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.Properties.Resources.resources
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.UserInputForm.resources
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csproj.GenerateResource.cache
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csproj.CoreCompileInputs.cache
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.exe
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.pdb
+F:\Tanjina\Bitm dot net\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.CustomerAssignmentForm.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.CustomerAssignmentForm.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.CustomerForm.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.exe.config
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.exe
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\bin\Debug\AarryFormPractice.pdb
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csprojAssemblyReference.cache
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.ArrayvalueDeclartForm.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.CustomerAssignmentForm.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.CustomerForm.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.ListForm.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.Properties.Resources.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.UserInputForm.resources
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csproj.GenerateResource.cache
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.csproj.CoreCompileInputs.cache
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.exe
+D:\C# Example\AarryFormPractice-20190527T150757Z-001-20190609T152939Z-001\AarryFormPractice-20190527T150757Z-001\AarryFormPractice\AarryFormPractice\obj\Debug\AarryFormPractice.pdb
