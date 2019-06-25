@@ -32,6 +32,7 @@
             this.showRichTextBox = new System.Windows.Forms.RichTextBox();
             this.addButton = new System.Windows.Forms.Button();
             this.reverseButton = new System.Windows.Forms.Button();
+            this.SummationButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // numberTextBox
@@ -69,11 +70,22 @@
             this.reverseButton.UseVisualStyleBackColor = true;
             this.reverseButton.Click += new System.EventHandler(this.reverseButton_Click);
             // 
+            // SummationButton
+            // 
+            this.SummationButton.Location = new System.Drawing.Point(130, 367);
+            this.SummationButton.Name = "SummationButton";
+            this.SummationButton.Size = new System.Drawing.Size(75, 23);
+            this.SummationButton.TabIndex = 7;
+            this.SummationButton.Text = "Summation";
+            this.SummationButton.UseVisualStyleBackColor = true;
+            this.SummationButton.Click += new System.EventHandler(this.SummationButton_Click);
+            // 
             // UserInputForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.SummationButton);
             this.Controls.Add(this.reverseButton);
             this.Controls.Add(this.numberTextBox);
             this.Controls.Add(this.showRichTextBox);
@@ -91,5 +103,6 @@
         private System.Windows.Forms.RichTextBox showRichTextBox;
         private System.Windows.Forms.Button addButton;
         private System.Windows.Forms.Button reverseButton;
+        private System.Windows.Forms.Button SummationButton;
     }
 }

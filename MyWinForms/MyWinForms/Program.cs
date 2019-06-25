@@ -22,7 +22,9 @@ namespace MyWinForms
             //Application.Run(new SubAddMultDivForm());
             //Application.Run(new ConditionalStatementForm());
             //Application.Run(new CoffeShopForm());
-            Application.Run(new ArrayExeciseForm());
+            //Application.Run(new ADOdatabase());
+            Application.Run(new StudentUiDesign());
+
         }
     }
 }

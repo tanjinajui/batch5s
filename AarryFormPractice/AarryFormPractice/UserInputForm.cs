@@ -56,5 +56,17 @@ namespace AarryFormPractice
 
             return  message ;
         }
+
+        private void SummationButton_Click(object sender, EventArgs e)
+        {
+            string message = "";
+            for (int index = 0; index< size; index++)
+            {
+                if (number[index] != 0)
+                    message = message + "Element at index [" + index + "] is : " + number[index].ToString() + "\n";
+            }
+
+            showRichTextBox.Text = message;
+        }
     }
 }
