@@ -28,8 +28,10 @@ namespace PersonInformationAppWalkthrough2
             //string middleName = middleNameTextBox.Text;
             //string lastName = lastNameTextBox.Text;
             string fullName = personobj. GetFullName();
+            string reverseName = personobj.GetReverseName();
 
             fullNameTextBox.Text = fullName;
+            reverseNameTextBox.Text = reverseName;
         }
     }
 }

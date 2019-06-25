@@ -16,5 +16,17 @@ namespace PersonInformationAppWalkthrough2
         {
             return firstName + "" + middleName + "" + lastName;
         }
+
+        public string GetReverseName()
+        {
+            string reverseName = "";
+            string fullName = GetFullName();
+            for (int index = fullName.Length - 1; index >= 0; index--)
+            {
+                reverseName += fullName[index];
+            }
+            return reverseName;
+        }
+
     }
 }

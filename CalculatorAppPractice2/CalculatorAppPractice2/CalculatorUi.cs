@@ -16,5 +16,25 @@ namespace CalculatorAppPractice2
         {
             InitializeComponent();
         }
+
+        private void AddButton_Click(object sender, EventArgs e)
+        {
+            //int firstNumber = Convert.ToInt32 (firstNumberTextBox.Text);
+            //int secondNumber = Convert.ToInt32(secondNumberTextBox.Text);
+            //int sum = firstNumber + secondNumber;
+
+            resultTextBox.Text = Add();
+            resultTextBox.ToString=ad
+
+        }
+        
+        private void Add()
+        {
+            int firstNumber = Convert.ToInt32(firstNumberTextBox.Text);
+            int secondNumber = Convert.ToInt32(secondNumberTextBox.Text);
+            int sum = firstNumber + secondNumber;
+
+            return;
+        }
     }
 }

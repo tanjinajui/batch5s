@@ -28,7 +28,7 @@ namespace AccountOperationAppPractice1
 
         public string Report()
         {
-            return accountNumber + "" + customerName + "" + balance;
+            return "AccountNumber: " + accountNumber + " , " + " CustomerName: " + customerName + " , " + "Balance: " + balance;
         }
     }
 }
