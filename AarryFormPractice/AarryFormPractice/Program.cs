@@ -17,10 +17,13 @@ namespace AarryFormPractice
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new ArrayvalueDeclartForm());
-            Application.Run(new UserInputForm());
+            //Application.Run(new UserInputForm());
             //Application.Run(new ListForm());
             //Application.Run(new CustomerForm());
             //Application.Run(new CustomerAssignmentForm());
+            //Application.Run(new TicketPurchas());
+            Application.Run(new BookShopcs());
+            //Application.Run(new BookShop());
         }
     }
 }
