@@ -16,5 +16,20 @@ namespace SalaryCalculatorAppPractice3
         {
             InitializeComponent();
         }
+
+        private void ShowMeSalaryButton_Click(object sender, EventArgs e)
+        {
+            FinalSalary finalSalary = new FinalSalary();
+
+            finalSalary.employeeName = employeeNameTextBox.Text;
+            finalSalary.basicAmount = Convert.ToInt32 (basicAmountTextBox.Text);
+            finalSalary.houseRent = Convert.ToInt32(homeRentTextBox.Text);
+            finalSalary.medicalAllowance = Convert.ToInt32(medicalAllowanceTextBox.Text);
+            string Salary = finalSalary.GetFullSalary();
+            string Name = finalSalary.employeeName;
+            MessageBox.Show(Name  +  Salary);
+
+
+        }
     }
 }
