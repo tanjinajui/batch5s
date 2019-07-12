@@ -25,18 +25,21 @@ namespace PersonInformationAppWalkthrough2
             //personobj.lastName = lastNameTextBox.Text;
 
             //private method k set method a call 
-            //personobj.SetFirstName(firstNameTextBox.Text);
+            personobj.SetFirstName(firstNameTextBox.Text);
+            personobj.SetMiddleName(middleNameTextBox.Text);
+            personobj.SetLastName(lastNameTextBox.Text);
 
-            //string firstName = firstNameTextBox.Text;
-            //string middleName = middleNameTextBox.Text;
-            //string lastName = lastNameTextBox.Text;
+            string firstName = firstNameTextBox.Text;
+            string middleName = middleNameTextBox.Text;
+            string lastName = lastNameTextBox.Text;
             string fullName = personobj.GetFullName();
             string reverseName = personobj.GetReverseName();
             //string firstName = personobj.GetFirstName();
-
+            //string middleName = personobj.GetMiddleName();
+            //string lastName = personobj.GetLastName();
             //propety method call
-            personobj.FirstName = firstNameTextBox.Text;
-            string firstName = personobj.FirstName;
+            //personobj.FirstName = firstNameTextBox.Text;
+            //string firstName = personobj.FirstName;
 
             fullNameTextBox.Text = fullName;
             reverseNameTextBox.Text = reverseName;

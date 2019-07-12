@@ -12,26 +12,52 @@ namespace RefrigeratorAppPractice3
 {
     public partial class RefrigeratorUi : Form
     {
-        Refrigerator refrigeratorobj = new Refrigerator();
+        ShowWeight _showWeight = new ShowWeight();
         public RefrigeratorUi()
         {
             InitializeComponent();
         }
-
-        private void SaveButton_Click(object sender, EventArgs e)
+        
+            
+        private void SaveButton_Click_1(object sender, EventArgs e)
         {
-            refrigeratorobj.ItemsNo = Convert.ToInt32(itemTextBox.Text);
-            itemTextBox.Clear();
-            weightTextBox.Clear();
-            if ((refrigeratorobj.validation()) == true)
+            try
             {
-                MessageBox.Show("SorryItems Weight is larger than Refrigerators Maximum Weight Limit");
+                _showWeight.MaxWeightLimit = Convert.ToDouble(maxWeightTakeTextBox.Text);
+                //maxWeightTakeTextBox.Clear();
+
+                MessageBox.Show("Saved Succesfully!");
             }
-            else
+            catch(Exception exception)
             {
-                currentWeightTextBox.Text = Convert.ToString(refrigeratorobj.GetCurrentWeight());
-                remainingWeightTextBox.Text = Convert.ToString(refrigeratorobj.GetRemainingWeight());
+                //string Message = " ";
+                //Message = "Saved Failed!";
+                MessageBox.Show(exception.Message);
+                
             }
         }
+
+        private void EnterButton_Click_1(object sender, EventArgs e)
+        {
+            _showWeight.ItemsNo = Convert.ToInt32(itemTextBox.Text);
+            _showWeight.Weight__Kg_Unit = Convert.ToDouble(weightTextBox.Text);
+
+            itemTextBox.Clear();
+            weightTextBox.Clear();
+
+            if ((_showWeight.validation()) == true)
+            {
+                MessageBox.Show("Sorry  Items  Weight is Larger than Refrigerator's Maximum Weight Limit");
+
+
+            }
+
+            else
+            {
+                currentWeightTextBox.Text = Convert.ToString(_showWeight.GetCurrentWeight());
+                remainingWeightTextBox.Text = Convert.ToString(_showWeight.GetRemainingWeight());
+            }
+        }
+     
     }
 }

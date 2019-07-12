@@ -10,7 +10,7 @@ namespace PersonInformationAppWalkthrough2
     {
         //public string firstName;
         //public string middleName;
-        //public string lastName; 
+        //public string lastName;
 
         // one class- onno class a private field access (method)
         private string firstName;
@@ -22,18 +22,39 @@ namespace PersonInformationAppWalkthrough2
         {
             firstName = this.firstName;
         }
+
+        public void SetMiddleName(string middleName)
+        {
+            middleName = this.middleName;
+        }
+
+        public void SetLastName(string lastName)
+        {
+            lastName = this.lastName;
+        }
+
         //get method//instance method
         public string GetFirstName()
         {
             return firstName;
         }
 
-        //property get set method
-        public string FirstName
+        public string GetMiddleName()
         {
-            get { return firstName; }
-            set { this.firstName = value; }
+            return middleName;
         }
+
+        public string GetLastName()
+        {
+            return lastName;
+        }
+
+        //property get set method
+        //public string FirstName
+        //{
+        //    get { return firstName; }
+        //    set { this.firstName = value; }
+        //}
 
         public string GetFullName()
         {
