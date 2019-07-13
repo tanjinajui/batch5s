@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        #header {
+            top: 0px;
+            height: 30px;
+            width: 100%;
+            background-color: cadetblue;
+            text-align: center;
+        }
+
+        #menuBar {
+            height: 25px;
+            width: 100%;
+            background-color: darkolivegreen;
+            text-align: center;
+        }
+
+        #leftSideBar {
+            height: auto;
+            width: 20%;
+            background-color: blueviolet;
+            text-align: center;
+            float: left;
+        }
+
+        #mainContent {
+            height: auto;
+            width: 60%;
+            background-color: bisque;
+            text-align: center;
+            float: left;
+        }
+
+        #rightSideBar {
+            height: auto;
+            width: 20%;
+            background-color: blueviolet;
+            text-align: center;
+            float: left;
+        }
+
+        footer {
+            bottom: 0px;
+            position: absolute;
+            height: 30px;
+            width: 100%;
+            background-color: cadetblue;
+            text-align: center;
+        }
+    </style>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div>
+        <div id="header">Header</div>
+        <div id="menuBar">Menu Bar</div>
+        <div>
+            <div id="leftSideBar">Left Side Bar</div>
+            <div id="mainContent">
+                <h4>Main Content</h4>
+                <div class="container">
+                    <div class="row" style="background-color: aliceblue">
+                        <div class="col-6">
+                            1 of 2
+                            <div class="row" style="background-color: aqua">
+                                <div class="col">
+                                    1 of 2
+                                </div>
+                                <div class="col">
+                                    2 of 2
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            2 of 2
+                            <div class="row" style="background-color: cornflowerblue">
+                                <div class="col">
+                                    1 of 3
+
+                                </div>
+                                <div class="col">
+                                    2 of 3
+                                </div>
+                                <div class="col">
+                                    3 of 3
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="rightSideBar">Right Side Bar</div>
+        </div>
+    </div>
+    <footer>Footer</footer>
+    <script src="../Scripts/jquery-3.0.0.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+</body>
+</html>
