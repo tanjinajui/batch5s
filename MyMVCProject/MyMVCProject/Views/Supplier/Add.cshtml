@@ -1,0 +1,74 @@
+﻿@if (ViewBag.SuccessMsg != null)
+{
+    <h3 style="color:green">@ViewBag.SuccessMsg</h3>
+}
+@if (ViewBag.FailMsg != null)
+{
+    <h3 style="color:red">@ViewBag.FailMsg</h3>
+}
+@if (ViewBag.FailMsg != null)
+{
+    <h3 style="color:orangered">@ViewBag.FailMsg</h3>
+}
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    <div>
+        <form method="post">
+            <table>
+                <tr>
+                    <td>Name</td>
+                    <td>
+                        <input type="text" name="Name" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Code</td>
+                    <td>
+                        <input type="text" name="Code" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                    <td>
+                        <input type="text" name="Address" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td>
+                        <input type="text" name="Email" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Contact</td>
+                    <td>
+                        <input type="text" name="Contact" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>ContactPerson</td>
+                    <td>
+                        <input type="text" name="ContactPerson" />
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" value="Save" />
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>

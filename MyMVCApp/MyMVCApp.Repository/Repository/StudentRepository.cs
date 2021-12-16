@@ -25,10 +25,10 @@ namespace MyMVCApp.Repository.Repository
         public bool Delete(Student student)
         {
             int isExecuted = 0;
-            Student astudent = db.Students.FirstOrDefault(c=> c.ID == student.ID);
+            Student astudent = db.Students.FirstOrDefault(c => c.ID == student.ID);
             if (astudent!=null)
             {
-                db.Students.Add(astudent);
+                db.Students.Remove(astudent);
                 isExecuted = db.SaveChanges();
             }
             
@@ -52,7 +52,6 @@ namespace MyMVCApp.Repository.Repository
         }
         public List<Student> GetAll(Student student)
         {
-
             return db.Students.ToList();
         }
         public Student GetByID(Student student)

@@ -32,25 +32,25 @@ namespace MyMVCApp.Controllers
         }
         public ActionResult Update()
         {
-            _student.ID = 101;
-            _student.Name = "Kamal";
+            _student.ID = 3;
+            _student.Name = "Jui";
             _studentManager.Update(_student);
 
             return View();
         }
         public ActionResult GetByID()
         {
-            _student.ID = 101;
-            //_student.Name = "Kamal";
-            Student astudent=_studentManager.GetByID(_student);
+            _student.ID = 3;
+            
+          Student bstudent=  _studentManager.GetByID(_student);
 
             return View();
         }
-        public ActionResult Update()
+        public ActionResult GetAll()
         {
-            _student.ID = 101;
-            _student.Name = "Kamal";
-            _studentManager.Update(_student);
+            _student.ID = 3;
+           
+          List<Student> bstudent=  _studentManager.GetAll(_student);
 
             return View();
         }

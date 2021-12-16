@@ -1,0 +1,77 @@
+﻿@model MyMVCProject.Models.Models.Supplier
+@{
+                /**/
+
+                /**/
+
+                Layout = null;
+}
+@if (ViewBag.SuccessMsg != null)
+{
+    <h3 style="color:green">@ViewBag.SuccessMsg</h3>
+}
+@if (ViewBag.FailMsg != null)
+{
+    <h3 style="color:orangered">@ViewBag.FailMsg</h3>
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    <div>
+        <form method="post">
+            <input type="hidden" name="Id" value="@Model.ID" />
+            <table>
+                <tr>
+                    <td>Name</td>
+                    <td>
+                        <input type="text" name="Name" value="@Model.Name" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Code</td>
+                    <td>
+                        <input type="text" name="Code" value="@Model.Code" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                    <td>
+                        <input type="text" name="Address" value="@Model.Address" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Email</td>
+                    <td>
+                        <input type="text" name="Email" value="@Model.Email" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Contact</td>
+                    <td>
+                        <input type="text" name="Contact" value="@Model.Contact" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>ContactPerson</td>
+                    <td>
+                        <input type="text" name="ContactPerson" value="@Model.ContactPerson" />
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" value="Update" />
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>
